@@ -1,5 +1,4 @@
 # claude-appeal-guide
-# Claude 申诉解封实测教程
 
 # Claude 申诉解封实测全流程
 
